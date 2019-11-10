@@ -58,5 +58,3 @@ Function EuropeanOption(
     option_price = option_price / n_sim
     EuropeanOption= option_price
 End Function
-
-testing
